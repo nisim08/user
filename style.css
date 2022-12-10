@@ -1,0 +1,20 @@
+body{
+    background-image: url("https://cdn.pixabay.com/photo/2015/04/23/22/00/tree-736885__340.jpg");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+}
+
+
+#center{
+    color: white;
+}
+
+#sodi{
+    color: aliceblue;
+}
+
+#whatyourage{
+    color: white;
+}
